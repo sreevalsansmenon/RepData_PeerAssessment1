@@ -2,7 +2,7 @@
 title: "Reproducible Research Assignment 1"
 author: "Sreevalsan  S Menon"
 date: "8/16/2020"
-output: html_document
+output: md_document
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
